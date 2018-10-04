@@ -47,3 +47,5 @@
  Pode ser de site ou da própria pasta raiz
 
 ![Alt Text](lisa.jpg)
+
+Obs: Conforme for achando mais comandos vou adicionando.
